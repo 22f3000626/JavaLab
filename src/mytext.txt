@@ -1,0 +1,2 @@
+java has 4 oop 
+java is statically typed
